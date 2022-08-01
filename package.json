@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "TODO7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ShiellynFerr/TODO7.git",
+  "author": "ShiellynFerr <brunashiellyn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
